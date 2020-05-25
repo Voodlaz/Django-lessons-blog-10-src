@@ -1,0 +1,19 @@
+.register-form {
+  display: flex;
+  margin-left: 35%;
+}
+
+.register-form input {
+  border-radius: 7px;
+  border: none;
+  padding: 5px 5px;
+}
+
+.register-form button {
+  border-radius: 7px;
+  padding: 20px 20px;
+  background-color: green;
+  border: none;
+  padding-right: 30px;
+  font-size: 23px;
+}
